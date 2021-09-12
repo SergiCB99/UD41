@@ -1,0 +1,935 @@
+{
+  "superheroes": [
+    {
+      "id": 2,
+      "name": "consequatur",
+      "short_name": "harum",
+      "alt_name": "ut",
+      "role": "voluptatem",
+      "new_role": "hic",
+      "type": "totam",
+      "release_date": "2076-10-07T05:53:44.315Z",
+      "rework_date": "2026-01-30T20:17:57.753Z",
+      "attribute_id": 99125,
+      "translations": [
+        "vel",
+        "et",
+        "rerum",
+        "error",
+        "sapiente"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "adipisci",
+      "short_name": "cumque",
+      "alt_name": "quam",
+      "role": "velit",
+      "new_role": "itaque",
+      "type": "rem",
+      "release_date": "1995-03-20T00:14:10.760Z",
+      "rework_date": "2001-03-21T05:35:25.577Z",
+      "attribute_id": 30925,
+      "translations": [
+        "blanditiis",
+        "numquam",
+        "labore",
+        "cupiditate",
+        "dolor"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "nemo",
+      "short_name": "molestiae",
+      "alt_name": "quae",
+      "role": "et",
+      "new_role": "aperiam",
+      "type": "in",
+      "release_date": "2051-08-21T03:17:09.876Z",
+      "rework_date": "2023-03-30T05:36:15.650Z",
+      "attribute_id": 7267,
+      "translations": [
+        "voluptatem",
+        "voluptas",
+        "voluptatem",
+        "inventore",
+        "tempora"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "molestiae",
+      "short_name": "reprehenderit",
+      "alt_name": "fugiat",
+      "role": "reprehenderit",
+      "new_role": "cupiditate",
+      "type": "optio",
+      "release_date": "2017-06-20T23:35:16.330Z",
+      "rework_date": "2016-01-30T05:07:59.103Z",
+      "attribute_id": 9236,
+      "translations": [
+        "inventore",
+        "quia",
+        "incidunt",
+        "nihil",
+        "dolorem"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "et",
+      "short_name": "accusamus",
+      "alt_name": "molestiae",
+      "role": "atque",
+      "new_role": "eligendi",
+      "type": "similique",
+      "release_date": "2004-12-06T03:13:53.261Z",
+      "rework_date": "2052-04-03T14:07:35.971Z",
+      "attribute_id": 95144,
+      "translations": [
+        "qui",
+        "velit",
+        "beatae",
+        "velit",
+        "vero"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "ratione",
+      "short_name": "officia",
+      "alt_name": "consequatur",
+      "role": "ducimus",
+      "new_role": "accusantium",
+      "type": "reiciendis",
+      "release_date": "2075-02-22T18:07:41.895Z",
+      "rework_date": "2086-09-28T15:33:47.525Z",
+      "attribute_id": 46186,
+      "translations": [
+        "iusto",
+        "maiores",
+        "aut",
+        "voluptas",
+        "quasi"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "nemo",
+      "short_name": "ad",
+      "alt_name": "vero",
+      "role": "reprehenderit",
+      "new_role": "velit",
+      "type": "et",
+      "release_date": "2032-07-13T17:55:38.695Z",
+      "rework_date": "2043-08-23T07:50:48.063Z",
+      "attribute_id": 84307,
+      "translations": [
+        "minima",
+        "consequatur",
+        "blanditiis",
+        "est",
+        "voluptates"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "qui",
+      "short_name": "voluptas",
+      "alt_name": "quam",
+      "role": "quo",
+      "new_role": "possimus",
+      "type": "voluptatem",
+      "release_date": "2071-07-12T23:34:33.698Z",
+      "rework_date": "1992-01-15T22:46:28.314Z",
+      "attribute_id": 25662,
+      "translations": [
+        "eum",
+        "omnis",
+        "quasi",
+        "occaecati",
+        "optio"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "libero",
+      "short_name": "accusantium",
+      "alt_name": "quo",
+      "role": "sint",
+      "new_role": "molestias",
+      "type": "sed",
+      "release_date": "2098-04-29T12:35:00.144Z",
+      "rework_date": "2050-02-06T05:00:46.940Z",
+      "attribute_id": 14678,
+      "translations": [
+        "minus",
+        "impedit",
+        "deserunt",
+        "enim",
+        "atque"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "molestiae",
+      "short_name": "ipsa",
+      "alt_name": "est",
+      "role": "sed",
+      "new_role": "consequatur",
+      "type": "cumque",
+      "release_date": "2081-11-02T04:42:42.372Z",
+      "rework_date": "2075-09-14T09:43:23.188Z",
+      "attribute_id": 53556,
+      "translations": [
+        "nisi",
+        "non",
+        "est",
+        "officia",
+        "hic"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "dignissimos",
+      "short_name": "animi",
+      "alt_name": "et",
+      "role": "sapiente",
+      "new_role": "debitis",
+      "type": "reprehenderit",
+      "release_date": "2058-12-21T13:40:31.217Z",
+      "rework_date": "2041-12-01T22:42:54.469Z",
+      "attribute_id": 90571,
+      "translations": [
+        "qui",
+        "sed",
+        "nobis",
+        "est",
+        "a"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "ut",
+      "short_name": "earum",
+      "alt_name": "amet",
+      "role": "ipsam",
+      "new_role": "eaque",
+      "type": "quis",
+      "release_date": "2011-07-31T10:00:34.610Z",
+      "rework_date": "2077-10-22T00:47:34.184Z",
+      "attribute_id": 90821,
+      "translations": [
+        "asperiores",
+        "dolorem",
+        "velit",
+        "ducimus",
+        "et"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "saepe",
+      "short_name": "pariatur",
+      "alt_name": "ut",
+      "role": "sed",
+      "new_role": "sint",
+      "type": "qui",
+      "release_date": "2001-03-17T10:16:52.262Z",
+      "rework_date": "2027-07-30T01:00:59.393Z",
+      "attribute_id": 1958,
+      "translations": [
+        "ad",
+        "fuga",
+        "alias",
+        "eius",
+        "rerum"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "quos",
+      "short_name": "fuga",
+      "alt_name": "sint",
+      "role": "eos",
+      "new_role": "sit",
+      "type": "est",
+      "release_date": "2059-05-03T03:26:51.583Z",
+      "rework_date": "2098-02-25T22:40:16.144Z",
+      "attribute_id": 16397,
+      "translations": [
+        "sed",
+        "qui",
+        "quos",
+        "debitis",
+        "et"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "temporibus",
+      "short_name": "autem",
+      "alt_name": "omnis",
+      "role": "et",
+      "new_role": "et",
+      "type": "soluta",
+      "release_date": "2068-06-02T13:51:00.967Z",
+      "rework_date": "2089-10-15T16:15:27.198Z",
+      "attribute_id": 64808,
+      "translations": [
+        "vero",
+        "sed",
+        "molestiae",
+        "optio",
+        "rerum"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "eos",
+      "short_name": "alias",
+      "alt_name": "qui",
+      "role": "dolorem",
+      "new_role": "dolor",
+      "type": "qui",
+      "release_date": "2040-10-22T21:27:45.114Z",
+      "rework_date": "2030-12-04T11:13:54.256Z",
+      "attribute_id": 30161,
+      "translations": [
+        "odio",
+        "molestiae",
+        "ut",
+        "dolorum",
+        "saepe"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "laudantium",
+      "short_name": "sit",
+      "alt_name": "iusto",
+      "role": "et",
+      "new_role": "ullam",
+      "type": "possimus",
+      "release_date": "2032-03-29T14:29:09.724Z",
+      "rework_date": "2076-12-24T06:59:12.047Z",
+      "attribute_id": 87797,
+      "translations": [
+        "illo",
+        "eius",
+        "dolore",
+        "nisi",
+        "nihil"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "architecto",
+      "short_name": "aut",
+      "alt_name": "suscipit",
+      "role": "modi",
+      "new_role": "ducimus",
+      "type": "eos",
+      "release_date": "2031-07-29T20:01:38.567Z",
+      "rework_date": "2025-12-05T14:03:10.651Z",
+      "attribute_id": 32178,
+      "translations": [
+        "sint",
+        "voluptas",
+        "nisi",
+        "voluptatem",
+        "enim"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "in",
+      "short_name": "omnis",
+      "alt_name": "vel",
+      "role": "porro",
+      "new_role": "totam",
+      "type": "id",
+      "release_date": "2018-07-16T23:12:34.773Z",
+      "rework_date": "2001-05-29T00:23:15.821Z",
+      "attribute_id": 3921,
+      "translations": [
+        "ducimus",
+        "non",
+        "rerum",
+        "nemo",
+        "aliquam"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "doloremque",
+      "short_name": "sit",
+      "alt_name": "eligendi",
+      "role": "quam",
+      "new_role": "eos",
+      "type": "voluptate",
+      "release_date": "2086-06-15T06:28:46.977Z",
+      "rework_date": "2032-12-29T22:05:12.263Z",
+      "attribute_id": 99830,
+      "translations": [
+        "at",
+        "doloribus",
+        "qui",
+        "eos",
+        "ut"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "voluptates",
+      "short_name": "corrupti",
+      "alt_name": "itaque",
+      "role": "magnam",
+      "new_role": "et",
+      "type": "rem",
+      "release_date": "2057-11-21T23:40:25.613Z",
+      "rework_date": "2054-11-28T18:47:05.519Z",
+      "attribute_id": 97138,
+      "translations": [
+        "omnis",
+        "qui",
+        "nulla",
+        "iste",
+        "nobis"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "non",
+      "short_name": "maiores",
+      "alt_name": "voluptatum",
+      "role": "qui",
+      "new_role": "odit",
+      "type": "voluptatem",
+      "release_date": "2042-08-04T03:23:05.123Z",
+      "rework_date": "2093-12-02T18:59:58.390Z",
+      "attribute_id": 75236,
+      "translations": [
+        "qui",
+        "laborum",
+        "aspernatur",
+        "cupiditate",
+        "repellendus"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "et",
+      "short_name": "numquam",
+      "alt_name": "fuga",
+      "role": "sequi",
+      "new_role": "est",
+      "type": "ex",
+      "release_date": "2008-05-29T13:27:52.131Z",
+      "rework_date": "2054-09-21T17:53:31.092Z",
+      "attribute_id": 45198,
+      "translations": [
+        "impedit",
+        "omnis",
+        "maxime",
+        "esse",
+        "a"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "nisi",
+      "short_name": "natus",
+      "alt_name": "nihil",
+      "role": "sed",
+      "new_role": "sunt",
+      "type": "cupiditate",
+      "release_date": "2062-03-14T20:04:24.161Z",
+      "rework_date": "2016-03-16T13:05:00.182Z",
+      "attribute_id": 64502,
+      "translations": [
+        "hic",
+        "dolorem",
+        "animi",
+        "commodi",
+        "necessitatibus"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "voluptatum",
+      "short_name": "aspernatur",
+      "alt_name": "qui",
+      "role": "laudantium",
+      "new_role": "vel",
+      "type": "tempore",
+      "release_date": "1994-11-14T11:42:45.729Z",
+      "rework_date": "2051-07-29T09:50:29.464Z",
+      "attribute_id": 92468,
+      "translations": [
+        "quos",
+        "ipsum",
+        "vel",
+        "sint",
+        "saepe"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "eligendi",
+      "short_name": "fuga",
+      "alt_name": "nesciunt",
+      "role": "quia",
+      "new_role": "quis",
+      "type": "nam",
+      "release_date": "2031-06-26T20:41:10.524Z",
+      "rework_date": "2042-12-01T08:38:07.660Z",
+      "attribute_id": 60363,
+      "translations": [
+        "inventore",
+        "sapiente",
+        "aut",
+        "est",
+        "ea"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "qui",
+      "short_name": "esse",
+      "alt_name": "iure",
+      "role": "earum",
+      "new_role": "ut",
+      "type": "et",
+      "release_date": "2029-03-27T17:24:42.513Z",
+      "rework_date": "2066-08-04T12:23:00.641Z",
+      "attribute_id": 69474,
+      "translations": [
+        "tenetur",
+        "numquam",
+        "minus",
+        "accusamus",
+        "corporis"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "voluptatem",
+      "short_name": "debitis",
+      "alt_name": "et",
+      "role": "et",
+      "new_role": "officiis",
+      "type": "molestiae",
+      "release_date": "2060-10-19T06:33:21.850Z",
+      "rework_date": "2042-06-25T23:14:33.926Z",
+      "attribute_id": 26053,
+      "translations": [
+        "doloribus",
+        "est",
+        "praesentium",
+        "ad",
+        "quas"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "non",
+      "short_name": "quia",
+      "alt_name": "soluta",
+      "role": "ipsum",
+      "new_role": "quos",
+      "type": "nobis",
+      "release_date": "2074-12-15T02:19:53.679Z",
+      "rework_date": "2043-01-04T00:03:19.850Z",
+      "attribute_id": 30591,
+      "translations": [
+        "est",
+        "sed",
+        "ducimus",
+        "saepe",
+        "eaque"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "harum",
+      "short_name": "doloribus",
+      "alt_name": "quidem",
+      "role": "aut",
+      "new_role": "sequi",
+      "type": "fuga",
+      "release_date": "2091-10-15T22:45:43.264Z",
+      "rework_date": "2048-10-04T15:38:29.016Z",
+      "attribute_id": 96588,
+      "translations": [
+        "ut",
+        "temporibus",
+        "eum",
+        "debitis",
+        "est"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "maxime",
+      "short_name": "quas",
+      "alt_name": "sed",
+      "role": "est",
+      "new_role": "pariatur",
+      "type": "id",
+      "release_date": "2034-09-16T08:40:30.887Z",
+      "rework_date": "2038-09-04T13:38:20.006Z",
+      "attribute_id": 61278,
+      "translations": [
+        "omnis",
+        "voluptas",
+        "eius",
+        "iure",
+        "sit"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "non",
+      "short_name": "praesentium",
+      "alt_name": "maxime",
+      "role": "est",
+      "new_role": "dolor",
+      "type": "in",
+      "release_date": "2087-05-02T04:59:44.223Z",
+      "rework_date": "2089-09-19T00:27:35.566Z",
+      "attribute_id": 25266,
+      "translations": [
+        "sit",
+        "voluptas",
+        "harum",
+        "quia",
+        "natus"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "doloremque",
+      "short_name": "unde",
+      "alt_name": "sint",
+      "role": "mollitia",
+      "new_role": "nihil",
+      "type": "odio",
+      "release_date": "2095-06-18T18:29:35.409Z",
+      "rework_date": "2031-11-22T13:02:43.790Z",
+      "attribute_id": 50164,
+      "translations": [
+        "dolor",
+        "dolorem",
+        "in",
+        "temporibus",
+        "aut"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "voluptatem",
+      "short_name": "corporis",
+      "alt_name": "dolorum",
+      "role": "enim",
+      "new_role": "quidem",
+      "type": "voluptatibus",
+      "release_date": "2063-07-30T17:29:16.781Z",
+      "rework_date": "2017-06-19T00:50:56.355Z",
+      "attribute_id": 55036,
+      "translations": [
+        "explicabo",
+        "velit",
+        "qui",
+        "delectus",
+        "in"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "voluptas",
+      "short_name": "autem",
+      "alt_name": "nisi",
+      "role": "et",
+      "new_role": "quae",
+      "type": "molestias",
+      "release_date": "1992-04-03T21:22:35.959Z",
+      "rework_date": "2074-10-05T07:27:19.990Z",
+      "attribute_id": 96159,
+      "translations": [
+        "magnam",
+        "ut",
+        "corrupti",
+        "odio",
+        "corrupti"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "quia",
+      "short_name": "eos",
+      "alt_name": "quam",
+      "role": "reiciendis",
+      "new_role": "voluptas",
+      "type": "numquam",
+      "release_date": "2053-03-29T16:36:48.548Z",
+      "rework_date": "2035-11-21T23:34:54.958Z",
+      "attribute_id": 73428,
+      "translations": [
+        "doloribus",
+        "eveniet",
+        "voluptatem",
+        "consectetur",
+        "qui"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "molestiae",
+      "short_name": "facilis",
+      "alt_name": "adipisci",
+      "role": "maiores",
+      "new_role": "omnis",
+      "type": "velit",
+      "release_date": "2031-08-13T17:41:23.206Z",
+      "rework_date": "2071-10-04T01:07:51.435Z",
+      "attribute_id": 22304,
+      "translations": [
+        "quia",
+        "possimus",
+        "qui",
+        "porro",
+        "repudiandae"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "impedit",
+      "short_name": "natus",
+      "alt_name": "quia",
+      "role": "nesciunt",
+      "new_role": "quis",
+      "type": "soluta",
+      "release_date": "2057-04-08T20:51:39.284Z",
+      "rework_date": "2039-11-22T19:53:33.628Z",
+      "attribute_id": 51189,
+      "translations": [
+        "dolores",
+        "impedit",
+        "ipsum",
+        "nostrum",
+        "quas"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "consequatur",
+      "short_name": "ut",
+      "alt_name": "dolore",
+      "role": "hic",
+      "new_role": "animi",
+      "type": "molestiae",
+      "release_date": "2010-07-21T08:49:38.759Z",
+      "rework_date": "2008-06-29T19:34:25.916Z",
+      "attribute_id": 27765,
+      "translations": [
+        "id",
+        "commodi",
+        "voluptatem",
+        "quo",
+        "rerum"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "consequatur",
+      "short_name": "dolore",
+      "alt_name": "non",
+      "role": "et",
+      "new_role": "harum",
+      "type": "illum",
+      "release_date": "2023-02-13T17:23:36.691Z",
+      "rework_date": "2022-08-01T12:44:50.014Z",
+      "attribute_id": 74473,
+      "translations": [
+        "labore",
+        "corporis",
+        "amet",
+        "culpa",
+        "ad"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "voluptas",
+      "short_name": "vel",
+      "alt_name": "fuga",
+      "role": "voluptatem",
+      "new_role": "rerum",
+      "type": "quae",
+      "release_date": "2036-07-12T13:57:50.758Z",
+      "rework_date": "2075-05-21T04:09:33.637Z",
+      "attribute_id": 99861,
+      "translations": [
+        "velit",
+        "quisquam",
+        "et",
+        "dolores",
+        "architecto"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "quis",
+      "short_name": "in",
+      "alt_name": "voluptas",
+      "role": "voluptatum",
+      "new_role": "eius",
+      "type": "consequatur",
+      "release_date": "2002-11-25T13:51:13.110Z",
+      "rework_date": "1991-06-05T10:13:33.837Z",
+      "attribute_id": 57193,
+      "translations": [
+        "nesciunt",
+        "deserunt",
+        "distinctio",
+        "temporibus",
+        "enim"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "ipsam",
+      "short_name": "perferendis",
+      "alt_name": "velit",
+      "role": "minus",
+      "new_role": "at",
+      "type": "corrupti",
+      "release_date": "2003-06-17T21:28:19.728Z",
+      "rework_date": "2046-03-13T22:17:02.376Z",
+      "attribute_id": 57925,
+      "translations": [
+        "rerum",
+        "in",
+        "saepe",
+        "dicta",
+        "nihil"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "odio",
+      "short_name": "iusto",
+      "alt_name": "quia",
+      "role": "explicabo",
+      "new_role": "ut",
+      "type": "quae",
+      "release_date": "2055-11-26T20:36:14.088Z",
+      "rework_date": "2006-03-21T17:10:33.572Z",
+      "attribute_id": 69053,
+      "translations": [
+        "at",
+        "unde",
+        "eum",
+        "inventore",
+        "sapiente"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "ea",
+      "short_name": "unde",
+      "alt_name": "facere",
+      "role": "eius",
+      "new_role": "laudantium",
+      "type": "quaerat",
+      "release_date": "2055-08-23T04:42:31.682Z",
+      "rework_date": "2065-05-27T23:31:42.350Z",
+      "attribute_id": 7223,
+      "translations": [
+        "ab",
+        "non",
+        "temporibus",
+        "veniam",
+        "sed"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "amet",
+      "short_name": "rerum",
+      "alt_name": "id",
+      "role": "omnis",
+      "new_role": "delectus",
+      "type": "rerum",
+      "release_date": "2035-01-15T23:09:06.321Z",
+      "rework_date": "2020-04-01T23:38:47.155Z",
+      "attribute_id": 21058,
+      "translations": [
+        "numquam",
+        "temporibus",
+        "id",
+        "magni",
+        "voluptatem"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "possimus",
+      "short_name": "qui",
+      "alt_name": "mollitia",
+      "role": "quibusdam",
+      "new_role": "aut",
+      "type": "ipsam",
+      "release_date": "2058-06-29T06:39:44.218Z",
+      "rework_date": "1991-06-10T12:16:25.866Z",
+      "attribute_id": 92549,
+      "translations": [
+        "molestiae",
+        "illo",
+        "facilis",
+        "et",
+        "fugiat"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "aliquam",
+      "short_name": "qui",
+      "alt_name": "tenetur",
+      "role": "laborum",
+      "new_role": "dolorem",
+      "type": "voluptas",
+      "release_date": "2074-02-21T10:56:33.099Z",
+      "rework_date": "2077-02-02T15:32:28.757Z",
+      "attribute_id": 40274,
+      "translations": [
+        "voluptatem",
+        "quia",
+        "enim",
+        "error",
+        "recusandae"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "aperiam",
+      "short_name": "itaque",
+      "alt_name": "neque",
+      "role": "enim",
+      "new_role": "et",
+      "type": "quo",
+      "release_date": "2083-05-16T16:16:45.994Z",
+      "rework_date": "2091-01-05T10:17:27.257Z",
+      "attribute_id": 26300,
+      "translations": [
+        "tenetur",
+        "aliquam",
+        "facere",
+        "odio",
+        "facilis"
+      ]
+    }
+  ]
+}
